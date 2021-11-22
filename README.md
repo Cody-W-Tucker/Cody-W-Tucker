@@ -1,0 +1,4 @@
+👋 Hi, I’m <a href="https://codywtucker.com/">Cody W Tucker</a>, I've always wanted to be a business person. 
+Sales was the first thing I learned. Then Digital Marketing, now I'm doubling down on learning everything JAMstack.
+<br><br>
+CEO of <a href="https://www.themastermindvision.com">TMV - Social</a> & <a href="https://nebraskas.best">Nebraska's Best</a>
